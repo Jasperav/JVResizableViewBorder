@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JVResizableViewBorder'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of JVResizableViewBorder.'
 
 # This description is used to generate tags and improve search results.
@@ -32,11 +32,6 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'JVResizableViewBorder/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'JVResizableViewBorder' => ['JVResizableViewBorder/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.dependency 'JVCurrentDevice'
+s.dependency 'JVContentType'
 end

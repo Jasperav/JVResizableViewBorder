@@ -1,0 +1,16 @@
+PODS:
+  - JVResizableViewBorder (0.1.0)
+
+DEPENDENCIES:
+  - JVResizableViewBorder (from `../`)
+
+EXTERNAL SOURCES:
+  JVResizableViewBorder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVResizableViewBorder: 6ac6bc901373cbec9ee930e1a843681997c10f36
+
+PODFILE CHECKSUM: 294f5ee8a9e885c25d06aabf8a096975c9cb1b34
+
+COCOAPODS: 1.6.0.beta.1

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVResizableViewBorder_Tests' do
+  pod 'JVResizableViewBorder', :path => '../'
+  
+  
+end

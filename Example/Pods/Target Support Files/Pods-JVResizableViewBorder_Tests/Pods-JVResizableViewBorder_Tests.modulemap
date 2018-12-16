@@ -1,0 +1,6 @@
+framework module Pods_JVResizableViewBorder_Tests {
+  umbrella header "Pods-JVResizableViewBorder_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
